@@ -2,7 +2,6 @@
 Security RSS Feeds<BR />
 Created By Brad Voris<BR />
 Last Updated: 9-8-2020<BR />
-
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/RSSFeeds">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/RSSFeeds">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/RSSFeeds/total">
